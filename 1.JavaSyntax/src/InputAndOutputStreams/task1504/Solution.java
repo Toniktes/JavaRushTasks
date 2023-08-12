@@ -1,4 +1,4 @@
-package com.javarush.task.pro.task15.task1504;
+package InputAndOutputStreams.task1504;
 
 import java.io.IOException;
 import java.nio.file.Files;

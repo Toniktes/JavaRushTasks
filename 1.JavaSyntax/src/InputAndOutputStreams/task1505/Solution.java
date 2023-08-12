@@ -1,4 +1,4 @@
-package com.javarush.task.pro.task15.task1505;
+package InputAndOutputStreams.task1505;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
